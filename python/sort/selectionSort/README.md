@@ -3,4 +3,5 @@
 Run as below operation
 
 `cd ~/algorithm/python/sort/selectionSort`
+
 `python selectionSort.py`
